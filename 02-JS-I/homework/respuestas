@@ -1,0 +1,5 @@
+variables: son elementos que definimos nosotros que nos permiten modificar y almacenar datos por ejemplo en una suma de varios numero los resultados individuales se almacenan en una variable 
+el string es un elemento que definimos que el sistema interpreta como suma de letras para ejemplificarlo si hago 6 de manera string el sitema no va a tomar 6 como un numero sino como una escritura como una letra 
+las funciones son lineas de codigo que se encargan de procesar los datos que le demos (en el argumeto) y devolvernos un resultado por ejemplo la funcion multiplicar por 2 toma cualquier numero que pongamos en el argumento lo multiplica por 2 y nos devuelve un resultado
+la declaracion if nos permiti difurcar los datos en 2 posibilidades en la cual con un argumento decidimos si se cumple o no esta condicion dando asi intrucciones de que hacer en ambos casos
+los datos booleanos son datos que nos permiten definir la naturaleza de un dato que nos permite por ejemplo saber si un dato cumple o no las condiciones de una declaracion if
